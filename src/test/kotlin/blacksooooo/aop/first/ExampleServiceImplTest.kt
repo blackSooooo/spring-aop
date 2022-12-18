@@ -1,4 +1,4 @@
-package blacksooooo.aop
+package blacksooooo.aop.first
 
 import org.junit.jupiter.api.Test
 
